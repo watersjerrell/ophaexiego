@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meirio.richardsgames.com/sitemap.xml
